@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DoubleSubmitCookiePattern:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DoubleSubmitCookiePattern.war">
+      <element id="artifact" artifact-name="DoubleSubmitCookiePattern:war exploded" />
+    </root>
+  </artifact>
+</component>
